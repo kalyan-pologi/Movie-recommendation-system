@@ -1,6 +1,7 @@
 # Movie-recommendation-system
 
-## Application link: https://movie-recommendation-system-007.streamlit.app/
+## Application link: 
+https://movie-recommendation-system-007.streamlit.app/
 
 ## Introduction:
 This project develops a movie recommendation system. It includes an exploratory data analysis (EDA) conducted in a Jupyter Notebook and a user interface created with Streamlit for interactive movie recommendations.
